@@ -50,4 +50,5 @@ public class CoreJavaVideoPage {
 	{
 		closeCookiesIcon.click();
 	}
+	//dsfjh//
 }
